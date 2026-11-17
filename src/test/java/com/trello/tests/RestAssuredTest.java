@@ -2,8 +2,6 @@ package com.trello.tests;
 
 import com.trello.models.Board;
 import com.trello.steps.TestSteps;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.methods.HttpUriRequest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
